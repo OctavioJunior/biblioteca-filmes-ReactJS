@@ -5,7 +5,7 @@ Treinando API
 <p>Para execução do projeto, você precisará inicialmente ter em sua máquina um dos gerenciadores de pacote abaixo: </p>
 
 - [NPM](https://www.npmjs.com/)
-- [Yarn](https://yarnpkg.com/lang/en/) (recomendado)
+- [Yarn](https://yarnpkg.com/lang/en/)
 
 <p>
   Inicialmente, você precisa instalar todas as dependências de funcionamento do projeto, para isso, com o terminal aberto na pasta do projeto, execute:
