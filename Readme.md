@@ -1,5 +1,7 @@
 Treinando API - Utilizando api umdB
 
+Para acessar ver o projeto rodando: https://bibliotecafilmes-drjay3i40-octaviojunior.vercel.app/
+
 ## Como executar o projeto
 
 <p>Para execução do projeto, você precisará inicialmente ter em sua máquina um dos gerenciadores de pacote abaixo: </p>
